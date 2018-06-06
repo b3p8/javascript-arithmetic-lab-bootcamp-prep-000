@@ -27,5 +27,5 @@ function makeInt(n) {
 }
 
 function makeInt() {
-  multiply('0 * 2328');
+  multiply(a, '0');
 }
