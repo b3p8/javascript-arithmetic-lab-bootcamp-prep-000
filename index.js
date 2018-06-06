@@ -27,5 +27,5 @@ function makeInt(n) {
 }
 
 function makeInt() {
-  parseInt(n)
+  parseInt(n).toString(0);
 }
