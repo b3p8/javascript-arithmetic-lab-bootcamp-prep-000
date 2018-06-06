@@ -27,5 +27,5 @@ function makeInt(n) {
 }
 
 function makeInt() {
-  multiply(a, '0');
+  multiply(a, b);
 }
